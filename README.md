@@ -1,7 +1,6 @@
 # Treatwell-tech-grad-test
 
-## The code is designed to simply display a box based on user input, in the below screenshots I display the functionality of my code
-hope you enjoy :) 
+## The code is designed to simply display a box based on user input, in the below screenshots I present the functionality of my code enjoy :)
 
 ### Entering 56 for height
 ![2017-11-15 1](https://user-images.githubusercontent.com/30897343/32851649-7130c2c4-ca2d-11e7-9ae6-4d786225d0ff.png)
